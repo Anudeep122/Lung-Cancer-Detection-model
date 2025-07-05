@@ -106,10 +106,10 @@ Used TensorFlow's "tf.data" pipeline with **batching**, **shuffling**, and **pre
 
 ## Evaluation Metrics
 
-**Accuracy:** 83%  
-**Macro Precision:** 86%  
-**Macro Recall:** 85%  
-**Macro F1-Score:** 85%  
+**Accuracy:** 86%  
+**Macro Precision:** 87%  
+**Macro Recall:** 86%  
+**Macro F1-Score:** 87%  
 
 
 
